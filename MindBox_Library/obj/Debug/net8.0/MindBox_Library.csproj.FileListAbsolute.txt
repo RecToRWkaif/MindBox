@@ -1,0 +1,11 @@
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\bin\Debug\net8.0\MindBox_Library.deps.json
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\bin\Debug\net8.0\MindBox_Library.dll
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\bin\Debug\net8.0\MindBox_Library.pdb
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.AssemblyInfoInputs.cache
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.AssemblyInfo.cs
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.csproj.CoreCompileInputs.cache
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.dll
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\refint\MindBox_Library.dll
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.pdb
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\ref\MindBox_Library.dll
