@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MindBox_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dce33714d53564ad82a1239b8a96db54731ae57")]
 [assembly: System.Reflection.AssemblyProductAttribute("MindBox_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MindBox_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

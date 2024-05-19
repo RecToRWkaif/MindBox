@@ -9,3 +9,4 @@ C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\Min
 C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\refint\MindBox_Library.dll
 C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.pdb
 C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\ref\MindBox_Library.dll
+C:\Users\solop\source\repos\MindBox_Library\MindBox_Library\obj\Debug\net8.0\MindBox_Library.sourcelink.json

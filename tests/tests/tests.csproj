@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MindBox_Library">
+      <HintPath>..\..\MindBox_Library\MindBox_Library\bin\Debug\net8.0\MindBox_Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
