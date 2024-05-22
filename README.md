@@ -12,4 +12,4 @@
 
 ## DDL FILE: [MindBox_Library/bin/Debug/net8.0](https://github.com/RecToRWkaif/MindBox/tree/main/MindBox_Library/bin/Debug/net8.0)
 
-## SQL Request 
+## SQL Request  
